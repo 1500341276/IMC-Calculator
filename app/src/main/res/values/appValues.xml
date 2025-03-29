@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="appColor1">#006341</color>
+    <color name="appColor2">#00A859</color>
+    <color name="appColor3">#4D4D4D</color>
+    <color name="appColor4">#B3B3B3</color>
+    <color name="appColor5">#FFFFFF</color>
+
+    <!-- Tela 1 -->
+    <string name="appT1BtnStart">Start</string>
+
+    <!-- Tela 2 -->
+    <string name="appT2Titulo">CALCULADORA IMC</string>
+    <string name="appT2BtnSet">Calcular</string>
+    <string name="appT2BtnReset">Limpar</string>
+    <string name="appT2BtnBack">Fechar</string>
+    <string name="appT2HintPeso">Entre com o Peso (kg):</string>
+    <string name="appT2HintAltura">Entre com a altura (m):</string>
+
+    <!-- Tela do resultado -->
+    <string name="appIMCTitulo">RESULTADO DO IMC</string>
+    <string name="appIMCResultado">Resultado</string>
+    <string name="appBtnFechar">Fechar</string>
+
+
+</resources>
