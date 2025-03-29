@@ -3,8 +3,8 @@
 Um aplicativo Android que calcula o Índice de Massa Corporal (IMC) e fornece feedback motivacional baseado na classificação do usuário. Desenvolvido para a disciplina de **Programação de Dispositivos Móveis**.
 
 ## 🧑💻 Desenvolvedor
-- **Nome:** Seu Nome  
-- **Matrícula:** SUA_MATRICULA  
+- **Nome:** Felipe Lin  
+- **RA:** 24026024  
 - **Curso:** Ciência da Computação / 3º Semestre  
 - **Professor:** Vinicius Heltai  
 
