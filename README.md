@@ -30,4 +30,4 @@ Um aplicativo Android que calcula o Índice de Massa Corporal (IMC) e fornece fe
 ## 🔧 Como Executar
 1. **Clone o repositório**:
    ```bash
-   [git clone https://github.com/seu-usuario/IMC-Calculator.git](https://github.com/1500341276/IMC-Calculator.git)
+   [git clone https://github.com/1500341276/IMC-Calculator.git]
