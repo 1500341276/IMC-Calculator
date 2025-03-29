@@ -1,6 +1,6 @@
 # Calculadora de IMC com Feedback Positivo 
 
-![Banner do Projeto](![corpo-imc](https://github.com/user-attachments/assets/f61cf5bb-fcad-4ac3-a898-88ec1e0115f5)
+![Banner do Projeto](![corpo-imc])
 ) 
 
 Um aplicativo Android que calcula o Índice de Massa Corporal (IMC) e fornece feedback motivacional baseado na classificação do usuário. Desenvolvido para a disciplina de **Programação de Dispositivos Móveis**.
